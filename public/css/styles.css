@@ -1,0 +1,32 @@
+
+* {
+ font-size: 100%;
+ font-family:dosis;
+
+
+}
+
+
+.btn-top-margin{
+
+	margin-top:2px;
+	margin-right: 20px;
+}
+
+
+body {
+    background-color: #5D5B5B;
+}
+
+.hh
+{
+color: white;
+font-family: dosis;
+}
+
+.jumbotron {
+
+background-color: #E0DFDF;
+padding: 0.5em 0.6em;
+
+}
